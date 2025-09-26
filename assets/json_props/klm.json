@@ -1,0 +1,77 @@
+[
+  {
+    "No.": "1",
+    "name": "Selmeci Műemlékkönyvtár és a '200 éves a Magyar Tudományos Akadémia és könyvtára' rollup kiállítás ünnepélyes megnyitója",
+    "english_name": "Opening of the Selmec Museum Library and the exhibition of the '200 years of the Hungarian Academy of Sciences and its library'",
+    "description": "Selmeci Műemlékkönyvtár és a '200 éves a Magyar Tudományos Akadémia és könyvtára' rollup kiállítás ünnepélyes megnyitójára invitálunk mindenkit.",
+    "english_description": "Opening of the Selmec Museum Library and the exhibition of the '200 years of the Hungarian Academy of Sciences and its library'.",
+    "place": "KLM épület földszint / KLM building ground floor",
+    "time": "Ünnepélyesmegnyitó: 15:00,  17:00 órától óránként tárlatvezetés / Opening ceremony: 3pm,  Guided tours every hour from 5pm",
+    "max_person": "100",
+    "registration": "nem",
+    "Infrastruktúra igénye": "nincs",
+    "Neve": "Szabóné Kovács Beáta",
+    "e-mail címe": "beata.kovacs@uni-miskolc.hu",
+    "tel. száma": "2948",
+    "Segítők": "Petrasovszkiné Munkácsi Szilvia",
+    "Korosztály": "bárki",
+    "building": "klm"
+  },
+  {
+    "No.": "2",
+    "name": "Könyvtári túra",
+    "english_name": "Library tour",
+    "description": "Felújított könyvtár és raktárainak megtekintése.",
+    "english_description": "Viewing the renovated library and its storage facilities.",
+    "place": "KLM épület / 1. emelet, olvasóterem",
+    "time": "óránként (17:00 órától, utolsó időpont: 20:00) / every hour (from 5pm, last time: 8pm)",
+    "max_person": "20-25",
+    "registration": "nem",
+    "Infrastruktúra igénye": "nincs",
+    "Neve": "Budai Anna",
+    "e-mail címe": "anna.budai1@uni-miskolc.hu",
+    "tel. száma": "1674",
+    "Segítők": "Pauer Erika",
+    "Korosztály": "bárki",
+    "building": "klm"
+
+  },
+  {
+    "No.": "3",
+    "name": "Könyvszobrászat",
+    "english_name": "Creating book sculptures",
+    "description": "Kézműves alkotások készítése könyvekből.",
+    "english_description": "Crafting handmade items from books.",
+    "place": "KLM épület / KLM épület",
+    "time": "Folyamatosan a teljes rendezvény alatt / Continuously throughout the entire event",
+    "max_person": "8-10 / alkalom",
+    "registration": "nem",
+    "Infrastruktúra igénye": "nincs",
+    "Neve": "Csorba Csilla",
+    "e-mail címe": "csilla.csorba@uni-miskolc.hu",
+    "tel. száma": "1676",
+    "Segítők": "Bana Szilvia",
+    "Korosztály": "bárki",
+    "building": "klm"
+
+  },
+  {
+    "No.": "4",
+    "name": "Mesemondás - A kőleves",
+    "english_name": "Storytelling - The \"stone soup\"",
+    "description": "Mesemondás gyerekeknek - A kőleves c. magyar népmese.",
+    "english_description": "Storytelling for children - The \"Stone soup\" (only in Hungarian).",
+    "place": "KLM emelet / KLM floor",
+    "time": "minden egész órában (17:00 órától, utolsó időpont: 20:00) / every hour (from 5pm, last time: 8pm)",
+    "max_person": "30 fő / alkalom",
+    "registration": "nem",
+    "Infrastruktúra igénye": "nincs",
+    "Neve": "Pauer Erika",
+    "e-mail címe": "erika.pauer@uni-miskolc.hu",
+    "tel. száma": "1675",
+    "Segítők": "Tóth Henrietta",
+    "Korosztály": "10 éven aluliak",
+    "building": "klm"
+
+  }
+]
