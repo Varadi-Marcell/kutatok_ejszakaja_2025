@@ -1,0 +1,136 @@
+{
+  "id": "diszaula",
+  "name": "Díszaula",
+  "svgPath": "assets/KutatokEjszakaja-Standalaprajz-Diszaula-01-1.svg",
+  "viewBox": {
+    "x": 0,
+    "y": 0,
+    "width": 1413.1,
+    "height": 1389.2
+  },
+  "interactiveAreas": [
+    {
+      "id": "gepelem",
+      "name": "Érdekes Gépelemek",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 494.5,
+        "y": 232.3,
+        "width": 56.7,
+        "height": 28.3
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "Főszínpad terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "ajk",
+      "name": "ajk",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 219.1,
+        "y": 377.8,
+        "width": 28.3,
+        "height": 234.7
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "Főszínpad terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "tni",
+      "name": "nemzetkozi",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 219.1,
+        "y": 709.7,
+        "width": 28.3,
+        "height": 176.025
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "Főszínpad terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "formula",
+      "name": "formula",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 427.7,
+        "y": 538.4,
+        "width": 176.1,
+        "height": 28.3
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "formula terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "sport",
+      "name": "sport",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 347.3,
+        "y": 598.6,
+        "width": 351.1,
+        "height": 429.5
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "sport terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "etk",
+      "name": "etk",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 347.3,
+        "y": 1063.1,
+        "width": 351.1,
+        "height": 310.2
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "sport terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "malyi",
+      "name": "malyi",
+      "type": "rectangle",
+      "coordinates": {
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "sport terület",
+        "capacity": 500
+      }
+    }
+
+  ]
+}
