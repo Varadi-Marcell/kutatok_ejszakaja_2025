@@ -1,0 +1,157 @@
+{
+  "id": "regi_aula",
+  "name": "regi_aula",
+  "svgPath": "assets/KutatokEjszakaja-Standalaprajz-RegiAula-01.svg",
+  "viewBox": {
+    "x": 0,
+    "y": 0,
+    "width": 927.7,
+    "height": 301.5
+  },
+  "interactiveAreas": [
+    {
+      "id": "mol",
+      "name": "MOL Petrolkémia Zrt.",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 184.9,
+        "y": 92.2,
+        "width": 79.8,
+        "height": 43.1
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "mol terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "joyson",
+      "name": "Joyson Safety Systems Hungary Kft.",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 184.9,
+        "y": 171.4,
+        "width": 79.8,
+        "height": 68.5
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "mol terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "bosch",
+      "name": "Robert Bosch",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 299.4,
+        "y": 93.2,
+        "width": 201.8,
+        "height": 146.6
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "mol terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "mfk",
+      "name": "Mfk",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 513.7,
+        "y": 249,
+        "width": 44.5,
+        "height": 22.2
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "bosch terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "gtk",
+      "name": "Gtk",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 626.3,
+        "y": 100.4,
+        "width": 22.2,
+        "height": 133.5
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "gtk terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "mcc",
+      "name": "Miskolci Mathias Corvinus Collegium",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 673.9,
+        "y": 107.3,
+        "width": 188,
+        "height": 22.2
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "mcc terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "borsod",
+      "name": "BorsodChem Zrt.",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 741,
+        "y": 163.1,
+        "width": 119.5,
+        "height": 73.3
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "borsodchem terület",
+        "capacity": 500
+      }
+    },
+    {
+      "id": "audience",
+      "name": "Nézőtér",
+      "type": "rectangle",
+      "coordinates": {
+        "x": 347.3,
+        "y": 598.6,
+        "width": 351.1,
+        "height": 429.5
+      },
+      "style": {
+        "cssClass": "polygon"
+      },
+      "metadata": {
+        "description": "Nézőtér",
+        "capacity": 300
+      }
+    }
+  ]
+}
